@@ -1,5 +1,5 @@
 #' Title
-#' 
+#'
 #' @description
 #'
 #' @name chevreuldata-package
