@@ -9,7 +9,7 @@ Description: Example data for the chevreul package.
 License: Artistic-2.0
 URL: https://github.com/whtns/chevreuldata
 BugReports: https://support.bioconductor.org/tag/chevreuldata
-biocViews: Software
+biocViews: ExperimentHubSoftware, RNASeq, Sequencing, GeneExpression, Transcription, SingleCell
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
