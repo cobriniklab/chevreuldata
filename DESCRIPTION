@@ -12,4 +12,8 @@ BugReports: https://support.bioconductor.org/tag/chevreuldata
 biocViews: ExperimentHubSoftware, RNASeq, Sequencing, GeneExpression, Transcription, SingleCell
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.1
+Depends: 
+    ExperimentHub
+Imports: 
+    utils

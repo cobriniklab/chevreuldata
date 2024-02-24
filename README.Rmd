@@ -48,31 +48,6 @@ library("chevreuldata")
 ## basic example code
 ```
 
-What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so:
-
-```{r cars}
-summary(cars)
-```
-
-You'll still need to render `README.Rmd` regularly, to keep `README.md` up-to-date.
-
-You can also embed plots, for example:
-
-```{r pressure, echo = FALSE}
-plot(pressure)
-```
-
-In that case, don't forget to commit and push the resulting figure files, so they display on GitHub!
-
-## Citation
-
-Below is the citation output from using `citation('chevreuldata')` in R. Please
-run this yourself to check for any updates on how to cite __chevreuldata__.
-
-```{r 'citation', eval = requireNamespace('chevreuldata')}
-print(citation("chevreuldata"), bibtex = TRUE)
-```
-
 Please note that the `chevreuldata` was only made possible thanks to many other R and bioinformatics software authors, which are cited either in the vignettes and/or the paper(s) describing this package.
 
 ## Code of Conduct
