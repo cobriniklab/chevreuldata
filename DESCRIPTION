@@ -17,3 +17,12 @@ Depends:
     ExperimentHub
 Imports: 
     utils
+Suggests: 
+    BiocStyle,
+    SingleCellExperiment,
+    knitr,
+    RefManageR,
+    rmarkdown,
+    sessioninfo,
+    testthat
+VignetteBuilder: knitr
