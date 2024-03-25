@@ -1,3 +1,10 @@
+#' When experimenthub drops support
+#'
+#' @return the included dataset
+#' @export
+#'
+#' @examples
+#' human_gene_transcript_sce()
 human_gene_transcript_sce <- function(){
 	loadRData <- function(fileName) {
 		# loads an RData file, and returns it
