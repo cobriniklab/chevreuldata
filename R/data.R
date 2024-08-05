@@ -1,0 +1,16 @@
+#' human_gene_transcript_sce
+#'
+#' Human retinal organoid data from
+#' https://www.biorxiv.org/content/10.1101/2023.02.28.530247v1
+#'
+#' @format a SingleCellExperiment object
+#' @source https://www.biorxiv.org/content/10.1101/2023.02.28.530247v1
+#' @name human_gene_transcript_sce
+#' @docType data
+#' @keywords datasets
+#' @usage human_gene_transcript_sce()
+#' @return a SingleCellExperiment object
+#' @examples
+#' human_gene_transcript_sce()
+#'
+NULL

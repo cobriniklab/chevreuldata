@@ -1,11 +1,14 @@
 Package: chevreuldata
 Title: Example data for the chevreul package
-Version: 0.99.6
+Version: 0.99.7
 Date: 2024-02-20
 Authors@R: 
     person("Kevin", "Stachelek", , "kevin.stachelek@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0003-2085-695X"))
-Description: Example data for the chevreul package.
+Description: 
+    Example data for the chevreul package. It should be loaded into a shiny app. 
+    This contains human retinal organoid data from the Shayler et al. biorxiv preprint. 
+    Data are present in mulitple batches by prep method. 
 License: Artistic-2.0
 URL: https://github.com/whtns/chevreuldata
 BugReports: https://support.bioconductor.org/tag/chevreuldata
