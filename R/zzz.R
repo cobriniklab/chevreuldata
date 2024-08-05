@@ -6,5 +6,3 @@
     ExperimentHub::createHubAccessors(pkgname, titles)
 
 }
-
-
