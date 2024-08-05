@@ -11,7 +11,12 @@ a SingleCellExperiment object
 https://www.biorxiv.org/content/10.1101/2023.02.28.530247v1
 }
 \usage{
-human_gene_transcript_sce()
+human_gene_transcript_sce(metadata=FALSE)
+}
+\arguments{
+\item{metadata}{\code{logical} value indicating whether only
+metadata should be returned or if the resource
+should be loaded}
 }
 \value{
 a SingleCellExperiment object
