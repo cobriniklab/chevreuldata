@@ -14,5 +14,6 @@
 #'
 #' @name human_gene_transcript_sce
 #' @docType data
+#' @format a SingleCellExperiment object
 #' @author Kevin Stachelek \email{kevin.stachelek@gmail.com}
 NULL
