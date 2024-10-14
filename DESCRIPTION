@@ -1,6 +1,6 @@
 Package: chevreuldata
 Title: Example data for the chevreul package
-Version: 0.99.12
+Version: 0.99.13
 Date: 2024-08-14
 Authors@R: 
     person("Kevin", "Stachelek", , "kevin.stachelek@gmail.com", role = c("aut", "cre"),
