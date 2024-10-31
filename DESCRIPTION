@@ -9,7 +9,7 @@ Description:
     Example data for the chevreul package. It should be loaded into a shiny app. 
     This contains human retinal organoid data from the Shayler et al. biorxiv preprint. 
     Data are present in mulitple batches by prep method. 
-License: Artistic-2.0
+License: MIT + file LICENSE
 URL: https://github.com/whtns/chevreuldata
 BugReports: https://support.bioconductor.org/tag/chevreuldata
 biocViews: ExperimentHubSoftware, RNASeq, Sequencing, GeneExpression, Transcription, SingleCell
