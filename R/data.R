@@ -13,7 +13,5 @@
 #'     metadata should be returned or if the resource
 #'     should be loaded
 #' @return a SingleCellExperiment object
-#' @examples
-#' human_gene_transcript_sce()
 #'
 NULL
