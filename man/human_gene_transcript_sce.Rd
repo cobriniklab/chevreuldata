@@ -22,7 +22,7 @@ should be loaded}
 a SingleCellExperiment object
 }
 \description{
-Human retinal organoid data from
+Human fetal retina data from
 https://www.biorxiv.org/content/10.1101/2023.02.28.530247v1
 }
 \examples{
