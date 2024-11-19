@@ -1,18 +1,20 @@
 Package: chevreuldata
 Title: Example data for the chevreul package
-Version: 0.99.20
+Version: 0.99.21
 Date: 2024-10-31
 Authors@R: 
     person("Kevin", "Stachelek", , "kevin.stachelek@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0003-2085-695X"))
 Description: 
     Example data for the chevreul package. It should be loaded into a shiny app. 
-    This contains human retinal organoid data from the Shayler et al. biorxiv preprint. 
-    Data are present in mulitple batches by prep method. 
+    This contains human retinal data from the Shayler et al. biorxiv preprint. 
+    Data are present in multiple batches by prep method. 
 License: MIT + file LICENSE
 URL: https://github.com/cobriniklab/chevreuldata
 BugReports: https://support.bioconductor.org/tag/chevreuldata
-biocViews: ExperimentHubSoftware, RNASeq, Sequencing, GeneExpression, Transcription, SingleCell
+biocViews: 
+    ExperimentHubSoftware, RNASeq, Sequencing, GeneExpression, 
+    Transcription, SingleCell
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
