@@ -6,9 +6,9 @@
 <!-- badges: start -->
 
 [![GitHub
-issues](https://img.shields.io/github/issues/whtns/chevreuldata)](https://github.com/whtns/chevreuldata/issues)
+issues](https://img.shields.io/github/issues/cobriniklab/chevreuldata)](https://github.com/cobriniklab/chevreuldata/issues)
 [![GitHub
-pulls](https://img.shields.io/github/issues-pr/whtns/chevreuldata)](https://github.com/whtns/chevreuldata/pulls)
+pulls](https://img.shields.io/github/issues-pr/cobriniklab/chevreuldata)](https://github.com/cobriniklab/chevreuldata/pulls)
 <!-- badges: end -->
 
 The goal of `chevreuldata` is to store data for the chevreul package
@@ -28,10 +28,10 @@ BiocManager::install("chevreuldata")
 ```
 
 And the development version from
-[GitHub](https://github.com/whtns/chevreuldata) with:
+[GitHub](https://github.com/cobriniklab/chevreuldata) with:
 
 ``` r
-BiocManager::install("whtns/chevreuldata")
+BiocManager::install("cobriniklab/chevreuldata")
 ```
 
 ## Example
@@ -67,7 +67,7 @@ contributing to this project, you agree to abide by its terms.
 - Code coverage assessment is possible thanks to
   [codecov](https://codecov.io/gh) and
   *[covr](https://CRAN.R-project.org/package=covr)*.
-- The [documentation website](http://whtns.github.io/chevreuldata) is
+- The [documentation website](http://cobriniklab.github.io/chevreuldata) is
   automatically updated thanks to
   *[pkgdown](https://CRAN.R-project.org/package=pkgdown)*.
 - The code is styled automatically thanks to

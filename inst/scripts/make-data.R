@@ -9,9 +9,9 @@
 
 # Human fetal retinae were dissected and dissociated.Single cells were FACS-isolated then reverse transcribed and amplified using the SMART-Seq V4 Ultra Low Input RNA Kit. Retinae were sequenced on the Illumina NextSeq 500 (2×75) and Illumina HiSeq 4000.
 
-# Adapter sequences were removed using trimgalore, aligned with HISAT2, quantified with StringTie, yielding cell-by-transcript and cell-by-gene count matrices annotated according to Ensembl build 87. All analyses can be reproduced using a snakemake workflow accessible at https://github.com/whtns/ARMOR. Raw data and count matrices for gene symbols and transcripts is available at GSE207802
+# Adapter sequences were removed using trimgalore, aligned with HISAT2, quantified with StringTie, yielding cell-by-transcript and cell-by-gene count matrices annotated according to Ensembl build 87. All analyses can be reproduced using a snakemake workflow accessible at https://github.com/cobriniklab/ARMOR. Raw data and count matrices for gene symbols and transcripts is available at GSE207802
 
-# Processing was performed using the clustering and integration workflows in the chevreul R package (https://github.com/whtns/chevreul). Common analyses are available using the Seurat and SingleCellExperiment formats. To exclude technical effects between distinct tissue isolation and sequencing batches, expression counts from seven sequencing batches were integrated using Seurat’s integration workflow.
+# Processing was performed using the clustering and integration workflows in the chevreul R package (https://github.com/cobriniklab/chevreul). Common analyses are available using the Seurat and SingleCellExperiment formats. To exclude technical effects between distinct tissue isolation and sequencing batches, expression counts from seven sequencing batches were integrated using Seurat’s integration workflow.
 
 # chevreul provides a single command to construct a single cell object, filter genes by minimum expression and ubiquity, normalize and scale expression
 
